@@ -1,2 +1,3 @@
 ﻿  ConsoleApplication1.cpp
-  ConsoleApplication1.vcxproj -> C:\Студия ++\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
+C:\Users\User\Desktop\lab_07\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(52,1): warning C4715: sinys: значение возвращается не при всех путях выполнения
+  ConsoleApplication1.vcxproj -> C:\Users\User\Desktop\lab_07\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
